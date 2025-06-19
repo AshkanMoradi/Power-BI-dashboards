@@ -1,4 +1,4 @@
-# PowerBI-dashboards
+# Power-BI-dashboards
 
 This section includes some of my dashboards designed using **Microsoft Power BI**.
 
